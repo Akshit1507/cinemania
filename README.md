@@ -1,6 +1,6 @@
 # Cinemania - A Movies and TV shows Reviews Website
 
-![Demo App](https://i.ibb.co/p3tjdNC/cinemania-preview.jpg)
+![Demo App](https://i.postimg.cc/fyqTJPYF/cinemania-preview.jpg)
 
 Some Features:
 
